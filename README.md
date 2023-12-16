@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arham
 - 👀 I’m interested in Node.js ,Typescript ,Java ,JavaScript ,Express.js ,React ,SQL
-- 🌱 I’m currently learning ...C, Python, HTML5, CSS, JavaScript, Flask, SQL
+- 🌱 I’m currently learning C, Python, HTML5, CSS, JavaScript, Flask, SQL
 - 💞️ I’m looking to collaborate on projects that foster learning, growth, and shared success.
 - 📫 How to reach me ...primepick81@gmail.com
 - 😊 Pronouns: He/Him
